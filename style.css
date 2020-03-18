@@ -1,5 +1,6 @@
 body{
 	background-color: #e6e5e5;
+	font-family: 'Roboto', sans-serif;
 }	
 .header{
 	margin: 0 auto;
@@ -8,6 +9,7 @@ body{
 .header__h1{
 	text-align: center;
 	margin-top: 0;
+	font-family: 'Open Sans', sans-serif;
 }
 .header__h2{
 	margin-bottom: 0;
