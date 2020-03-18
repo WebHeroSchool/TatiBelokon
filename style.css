@@ -1,0 +1,35 @@
+body{
+	background-color: #e6e5e5;
+}	
+.header{
+	margin: 0 auto;
+	width: 603px;
+}
+.header__h1{
+	text-align: center;
+	margin-top: 0;
+}
+.header__h2{
+	margin-bottom: 0;
+}
+.header__h2, .main__h2{
+	color: #da0808;
+}
+.header__span{
+	font-style: italic;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.main__figcaption{
+	border-left: 3px solid #da0808;
+	padding-left: 5px;
+	 	margin-top: 7px;
+}
+.footer{
+	text-align: right;
+	color:#716e6e;
+	margin: 30px;
+}
+.footer__span{
+	color:#383434;
+}
